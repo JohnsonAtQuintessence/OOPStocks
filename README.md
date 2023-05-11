@@ -1,4 +1,4 @@
-# Trading Platform
+# OOP Stocks
 This is a simple TypeScript project that demonstrates several Object-Oriented Programming (OOP) concepts, including Encapsulation, Inheritance, Abstraction, and Polymorphism.
 
 ## Encapsulation
