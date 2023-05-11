@@ -1,6 +1,9 @@
 # OOP Stocks
 This is a simple TypeScript project that demonstrates several Object-Oriented Programming (OOP) concepts, including Encapsulation, Inheritance, Abstraction, and Polymorphism.
 
+## OOP
+OOP is a programming paradigm that uses objects and classes to model real-world entities. It provides several benefits, including code reuse, maintainability, and extensibility.
+
 ## Encapsulation
 Encapsulation is the process of hiding the internal details of an object and exposing only the relevant data and behavior through public methods. In this project, the Security class encapsulates the data related to a security, such as its symbol, name, and sector. It provides public methods to access this data, such as getSymbol(), getName(), and getSector(). By encapsulating the data, we can ensure that it is accessed and modified only through controlled channels, which helps to maintain the integrity of the object.
 
